@@ -1,3 +1,8 @@
+## Team member names:
+1. Saba Yahyaa
+2. Mikael Dominguez
+3. Adam Flasse
+
 # project7_nlp_TopicModeling
 nlp_Topic Modeling is a NLP application that uses LDA-MALLET (Latent Dirichlet allocation, Topic Modeling) and Xgboost to classify the topics of newspapers.
 
