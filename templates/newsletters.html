@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% for topic in newsletters.keys() %}
+    <h1>{{topic}}</h1>
+    {% for url in newsletters[topic] %}
+        <a href="{{url}}">{{url}}</a><br>
+    {% endfor %}
+
+{% endfor %}
+
+</body>
+</html>
