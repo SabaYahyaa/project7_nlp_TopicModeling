@@ -32,5 +32,6 @@ We specified the following 17 topics:
 
 ## highlights:
 
-We create newspaper app, each time you select some topics from a checkbox topics, you get all the available urls. These urls are sent to your email.
+We create  [https://ainewspaper.herokuapp.com/](# newslAItter) app. Each time you select some topics from available AI topics, you enter you email address.
+All the selected topics will be sent to your email.
 
